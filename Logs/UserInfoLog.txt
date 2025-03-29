@@ -1,0 +1,512 @@
+Timestamp: 3/28/2025 8:34:02 PM
+User: Ziad Waleed
+Request Path: /Account/OnLoginCallback
+------------------------------------
+Timestamp: 3/28/2025 8:34:03 PM
+User: Ziad Waleed
+Request Path: /
+------------------------------------
+Timestamp: 3/28/2025 8:39:18 PM
+User: Ziad Waleed
+Request Path: /Books
+------------------------------------
+Timestamp: 3/28/2025 8:39:20 PM
+User: Ziad Waleed
+Request Path: /Borrowing/Borrow
+------------------------------------
+Timestamp: 3/28/2025 8:39:20 PM
+User: Ziad Waleed
+Request Path: /Books
+------------------------------------
+Timestamp: 3/28/2025 8:39:22 PM
+User: Ziad Waleed
+Request Path: /Borrowing/Return
+------------------------------------
+Timestamp: 3/28/2025 8:39:22 PM
+User: Ziad Waleed
+Request Path: /Books
+------------------------------------
+Timestamp: 3/28/2025 8:39:23 PM
+User: Ziad Waleed
+Request Path: /Books/Edit/21
+------------------------------------
+Timestamp: 3/28/2025 8:39:28 PM
+User: Ziad Waleed
+Request Path: /Books/Edit/21
+------------------------------------
+Timestamp: 3/28/2025 8:39:29 PM
+User: Ziad Waleed
+Request Path: /Books
+------------------------------------
+Timestamp: 3/28/2025 8:39:31 PM
+User: Ziad Waleed
+Request Path: /Books/Delete/21
+------------------------------------
+Timestamp: 3/28/2025 8:39:31 PM
+User: Ziad Waleed
+Request Path: /Books
+------------------------------------
+Timestamp: 3/28/2025 8:39:32 PM
+User: Ziad Waleed
+Request Path: /Books/Details/22
+------------------------------------
+Timestamp: 3/28/2025 8:39:42 PM
+User: Ziad Waleed
+Request Path: /Books/Create
+------------------------------------
+Timestamp: 3/28/2025 8:39:46 PM
+User: Ziad Waleed
+Request Path: /Books/Create
+------------------------------------
+Timestamp: 3/28/2025 8:40:02 PM
+User: Ziad Waleed
+Request Path: /Books/Create
+------------------------------------
+Timestamp: 3/28/2025 8:40:05 PM
+User: Ziad Waleed
+Request Path: /
+------------------------------------
+Timestamp: 3/28/2025 8:40:06 PM
+User: Ziad Waleed
+Request Path: /Authors
+------------------------------------
+Timestamp: 3/28/2025 8:40:09 PM
+User: Ziad Waleed
+Request Path: /Authors/Create
+------------------------------------
+Timestamp: 3/28/2025 8:40:15 PM
+User: Ziad Waleed
+Request Path: /Authors/Create
+------------------------------------
+Timestamp: 3/28/2025 8:40:15 PM
+User: Ziad Waleed
+Request Path: /Authors
+------------------------------------
+Timestamp: 3/28/2025 8:40:24 PM
+User: Ziad Waleed
+Request Path: /
+------------------------------------
+Timestamp: 3/28/2025 8:40:25 PM
+User: Ziad Waleed
+Request Path: /
+------------------------------------
+Timestamp: 3/28/2025 8:40:27 PM
+User: Ziad Waleed
+Request Path: /Books
+------------------------------------
+Timestamp: 3/28/2025 8:40:28 PM
+User: Ziad Waleed
+Request Path: /Books/Create
+------------------------------------
+Timestamp: 3/28/2025 8:40:37 PM
+User: Ziad Waleed
+Request Path: /Books/Create
+------------------------------------
+Timestamp: 3/28/2025 8:40:37 PM
+User: Ziad Waleed
+Request Path: /Books
+------------------------------------
+Timestamp: 3/28/2025 8:40:40 PM
+User: Ziad Waleed
+Request Path: /Borrowing/Borrow
+------------------------------------
+Timestamp: 3/28/2025 8:40:40 PM
+User: Ziad Waleed
+Request Path: /Books
+------------------------------------
+Timestamp: 3/28/2025 8:40:44 PM
+User: Ziad Waleed
+Request Path: /Books/Details/1021
+------------------------------------
+Timestamp: 3/28/2025 8:40:48 PM
+User: Ziad Waleed
+Request Path: /Books/Details/22
+------------------------------------
+Timestamp: 3/28/2025 8:52:59 PM
+User: Ziad Waleed
+Request Path: /
+------------------------------------
+Timestamp: 3/28/2025 8:53:00 PM
+User: Ziad Waleed
+Request Path: /Books
+------------------------------------
+Timestamp: 3/28/2025 8:53:51 PM
+User: Ziad Waleed
+Request Path: /
+------------------------------------
+Timestamp: 3/28/2025 8:53:53 PM
+User: Ziad Waleed
+Request Path: /Account/Logout
+------------------------------------
+Timestamp: 3/28/2025 8:54:19 PM
+User: Ziad Waleed
+Request Path: /Account/OnLoginCallback
+------------------------------------
+Timestamp: 3/28/2025 8:54:20 PM
+User: Ziad Waleed
+Request Path: /
+------------------------------------
+Timestamp: 3/28/2025 8:54:26 PM
+User: Ziad Waleed
+Request Path: /Books
+------------------------------------
+Timestamp: 3/28/2025 8:54:46 PM
+User: Ziad Waleed
+Request Path: /Authors
+------------------------------------
+Timestamp: 3/28/2025 8:54:48 PM
+User: Ziad Waleed
+Request Path: /Account/Logout
+------------------------------------
+Timestamp: 3/28/2025 8:54:54 PM
+User: Ziad Waleed
+Request Path: /Account/OnLoginCallback
+------------------------------------
+Timestamp: 3/28/2025 8:54:54 PM
+User: Ziad Waleed
+Request Path: /
+------------------------------------
+Timestamp: 3/28/2025 8:55:00 PM
+User: Ziad Waleed
+Request Path: /Authors
+------------------------------------
+Timestamp: 3/28/2025 8:55:02 PM
+User: Ziad Waleed
+Request Path: /
+------------------------------------
+Timestamp: 3/28/2025 8:55:03 PM
+User: Ziad Waleed
+Request Path: /Books
+------------------------------------
+Timestamp: 3/28/2025 9:22:42 PM
+User: Ziad Waleed
+Request Path: /
+------------------------------------
+Timestamp: 3/28/2025 9:22:43 PM
+User: Ziad Waleed
+Request Path: /Books
+------------------------------------
+Timestamp: 3/28/2025 9:24:23 PM
+User: Ziad Waleed
+Request Path: /
+------------------------------------
+Timestamp: 3/28/2025 9:24:24 PM
+User: Ziad Waleed
+Request Path: /Books
+------------------------------------
+Timestamp: 3/28/2025 9:24:27 PM
+User: Ziad Waleed
+Request Path: /Borrowing/Return
+------------------------------------
+Timestamp: 3/28/2025 9:24:28 PM
+User: Ziad Waleed
+Request Path: /Books
+------------------------------------
+Timestamp: 3/28/2025 9:24:29 PM
+User: Ziad Waleed
+Request Path: /Borrowing/Borrow
+------------------------------------
+Timestamp: 3/28/2025 9:24:29 PM
+User: Ziad Waleed
+Request Path: /Books
+------------------------------------
+Timestamp: 3/28/2025 9:24:30 PM
+User: Ziad Waleed
+Request Path: /Books/Edit/22
+------------------------------------
+Timestamp: 3/28/2025 9:24:33 PM
+User: Ziad Waleed
+Request Path: /Books/Edit/22
+------------------------------------
+Timestamp: 3/28/2025 9:24:33 PM
+User: Ziad Waleed
+Request Path: /Books
+------------------------------------
+Timestamp: 3/28/2025 9:24:45 PM
+User: Ziad Waleed
+Request Path: /Books/Edit/22
+------------------------------------
+Timestamp: 3/28/2025 9:24:47 PM
+User: Ziad Waleed
+Request Path: /Books/Edit/1021
+------------------------------------
+Timestamp: 3/28/2025 9:24:50 PM
+User: Ziad Waleed
+Request Path: /Books/Create
+------------------------------------
+Timestamp: 3/29/2025 8:36:35 AM
+User: Ziad Waleed
+Request Path: /Account/OnLoginCallback
+------------------------------------
+Timestamp: 3/29/2025 8:36:36 AM
+User: Ziad Waleed
+Request Path: /
+------------------------------------
+Timestamp: 3/29/2025 8:36:37 AM
+User: Ziad Waleed
+Request Path: /Books
+------------------------------------
+Timestamp: 3/29/2025 8:36:39 AM
+User: Ziad Waleed
+Request Path: /Borrowing/Return
+------------------------------------
+Timestamp: 3/29/2025 8:36:39 AM
+User: Ziad Waleed
+Request Path: /Books
+------------------------------------
+Timestamp: 3/29/2025 8:36:41 AM
+User: Ziad Waleed
+Request Path: /Borrowing/Borrow
+------------------------------------
+Timestamp: 3/29/2025 8:36:41 AM
+User: Ziad Waleed
+Request Path: /Books
+------------------------------------
+Timestamp: 3/29/2025 8:36:42 AM
+User: Ziad Waleed
+Request Path: /Borrowing/Return
+------------------------------------
+Timestamp: 3/29/2025 8:36:42 AM
+User: Ziad Waleed
+Request Path: /Books
+------------------------------------
+Timestamp: 3/29/2025 8:36:43 AM
+User: Ziad Waleed
+Request Path: /Borrowing/Borrow
+------------------------------------
+Timestamp: 3/29/2025 8:36:43 AM
+User: Ziad Waleed
+Request Path: /Books
+------------------------------------
+Timestamp: 3/29/2025 8:36:44 AM
+User: Ziad Waleed
+Request Path: /Borrowing/Return
+------------------------------------
+Timestamp: 3/29/2025 8:36:44 AM
+User: Ziad Waleed
+Request Path: /Books
+------------------------------------
+Timestamp: 3/29/2025 8:36:44 AM
+User: Ziad Waleed
+Request Path: /Borrowing/Borrow
+------------------------------------
+Timestamp: 3/29/2025 8:36:44 AM
+User: Ziad Waleed
+Request Path: /Books
+------------------------------------
+Timestamp: 3/29/2025 8:36:46 AM
+User: Ziad Waleed
+Request Path: /Borrowing/Return
+------------------------------------
+Timestamp: 3/29/2025 8:36:46 AM
+User: Ziad Waleed
+Request Path: /Books
+------------------------------------
+Timestamp: 3/29/2025 8:36:46 AM
+User: Ziad Waleed
+Request Path: /Borrowing/Borrow
+------------------------------------
+Timestamp: 3/29/2025 8:36:46 AM
+User: Ziad Waleed
+Request Path: /Books
+------------------------------------
+Timestamp: 3/29/2025 8:36:48 AM
+User: Ziad Waleed
+Request Path: /Books/Edit/22
+------------------------------------
+Timestamp: 3/29/2025 8:36:53 AM
+User: Ziad Waleed
+Request Path: /Books/Edit/22
+------------------------------------
+Timestamp: 3/29/2025 8:36:53 AM
+User: Ziad Waleed
+Request Path: /Books
+------------------------------------
+Timestamp: 3/29/2025 8:36:56 AM
+User: Ziad Waleed
+Request Path: /Books/Details/1021
+------------------------------------
+Timestamp: 3/29/2025 8:37:28 AM
+User: Ziad Waleed
+Request Path: /Books
+------------------------------------
+Timestamp: 3/29/2025 8:37:29 AM
+User: Ziad Waleed
+Request Path: /Books
+------------------------------------
+Timestamp: 3/29/2025 8:37:30 AM
+User: Ziad Waleed
+Request Path: /Books
+------------------------------------
+Timestamp: 3/29/2025 8:37:31 AM
+User: Ziad Waleed
+Request Path: /Books
+------------------------------------
+Timestamp: 3/29/2025 8:37:32 AM
+User: Ziad Waleed
+Request Path: /
+------------------------------------
+Timestamp: 3/29/2025 8:37:41 AM
+User: Ziad Waleed
+Request Path: /Authors
+------------------------------------
+Timestamp: 3/29/2025 8:37:44 AM
+User: Ziad Waleed
+Request Path: /Authors/Delete/7
+------------------------------------
+Timestamp: 3/29/2025 8:37:44 AM
+User: Ziad Waleed
+Request Path: /Authors
+------------------------------------
+Timestamp: 3/29/2025 8:44:26 AM
+User: Ziad Waleed
+Request Path: /Authors/Create
+------------------------------------
+Timestamp: 3/29/2025 8:44:33 AM
+User: Ziad Waleed
+Request Path: /Authors/Create
+------------------------------------
+Timestamp: 3/29/2025 8:44:34 AM
+User: Ziad Waleed
+Request Path: /Authors
+------------------------------------
+Timestamp: 3/29/2025 8:44:37 AM
+User: Ziad Waleed
+Request Path: /Authors/Delete/1007
+------------------------------------
+Timestamp: 3/29/2025 8:44:37 AM
+User: Ziad Waleed
+Request Path: /Authors
+------------------------------------
+Timestamp: 3/29/2025 8:44:41 AM
+User: Ziad Waleed
+Request Path: /
+------------------------------------
+Timestamp: 3/29/2025 8:44:42 AM
+User: Ziad Waleed
+Request Path: /Books
+------------------------------------
+Timestamp: 3/29/2025 8:44:43 AM
+User: Ziad Waleed
+Request Path: /Books/Create
+------------------------------------
+Timestamp: 3/29/2025 8:44:50 AM
+User: Ziad Waleed
+Request Path: /Books/Create
+------------------------------------
+Timestamp: 3/29/2025 8:44:50 AM
+User: Ziad Waleed
+Request Path: /Books
+------------------------------------
+Timestamp: 3/29/2025 8:44:58 AM
+User: Ziad Waleed
+Request Path: /Books/Delete/1022
+------------------------------------
+Timestamp: 3/29/2025 8:44:58 AM
+User: Ziad Waleed
+Request Path: /Books
+------------------------------------
+Timestamp: 3/29/2025 8:47:10 AM
+User: Ziad Waleed
+Request Path: /
+------------------------------------
+Timestamp: 3/29/2025 8:47:11 AM
+User: Ziad Waleed
+Request Path: /Authors
+------------------------------------
+Timestamp: 3/29/2025 8:50:06 AM
+User: Ziad Waleed
+Request Path: /Authors
+------------------------------------
+Timestamp: 3/29/2025 8:51:19 AM
+User: Ziad Waleed
+Request Path: /Authors/Create
+------------------------------------
+Timestamp: 3/29/2025 8:51:22 AM
+User: Ziad Waleed
+Request Path: /
+------------------------------------
+Timestamp: 3/29/2025 8:52:18 AM
+User: Ziad Waleed
+Request Path: /Account/Logout
+------------------------------------
+Timestamp: 3/29/2025 8:52:20 AM
+User: Ziad Waleed
+Request Path: /Account/OnLoginCallback
+------------------------------------
+Timestamp: 3/29/2025 8:52:20 AM
+User: Ziad Waleed
+Request Path: /
+------------------------------------
+Timestamp: 3/29/2025 9:03:01 AM
+User: Ziad Waleed
+Request Path: /
+------------------------------------
+Timestamp: 3/29/2025 9:03:03 AM
+User: Ziad Waleed
+Request Path: /Account/Logout
+------------------------------------
+Timestamp: 3/29/2025 9:03:10 AM
+User: Ziad Waleed
+Request Path: /Account/OnLoginCallback
+------------------------------------
+Timestamp: 3/29/2025 9:03:12 AM
+User: Ziad Waleed
+Request Path: /
+------------------------------------
+Timestamp: 3/29/2025 9:03:14 AM
+User: Ziad Waleed
+Request Path: /Account/Logout
+------------------------------------
+Timestamp: 3/29/2025 9:04:22 AM
+User: Ziad waleed
+Request Path: /Account/OnLoginCallback
+------------------------------------
+Timestamp: 3/29/2025 9:04:22 AM
+User: Ziad waleed
+Request Path: /
+------------------------------------
+Timestamp: 3/29/2025 9:04:34 AM
+User: Ziad waleed
+Request Path: /Books
+------------------------------------
+Timestamp: 3/29/2025 9:04:36 AM
+User: Ziad waleed
+Request Path: /Borrowing/Return
+------------------------------------
+Timestamp: 3/29/2025 9:04:36 AM
+User: Ziad waleed
+Request Path: /Books
+------------------------------------
+Timestamp: 3/29/2025 9:04:37 AM
+User: Ziad waleed
+Request Path: /Borrowing/Return
+------------------------------------
+Timestamp: 3/29/2025 9:04:37 AM
+User: Ziad waleed
+Request Path: /Books
+------------------------------------
+Timestamp: 3/29/2025 9:04:38 AM
+User: Ziad waleed
+Request Path: /Borrowing/Borrow
+------------------------------------
+Timestamp: 3/29/2025 9:04:38 AM
+User: Ziad waleed
+Request Path: /Books
+------------------------------------
+Timestamp: 3/29/2025 9:04:39 AM
+User: Ziad waleed
+Request Path: /Borrowing/Borrow
+------------------------------------
+Timestamp: 3/29/2025 9:04:39 AM
+User: Ziad waleed
+Request Path: /Books
+------------------------------------
+Timestamp: 3/29/2025 5:05:26 PM
+User: Ziad Waleed
+Request Path: /Account/OnLoginCallback
+------------------------------------
+Timestamp: 3/29/2025 5:05:28 PM
+User: Ziad Waleed
+Request Path: /
+------------------------------------
